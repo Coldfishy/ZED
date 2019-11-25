@@ -1,0 +1,2 @@
+# ZED
+A rookie
